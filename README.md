@@ -1,18 +1,16 @@
 # Real Estate Intelligence System
 
-A Data Science project that analyzes real estate property data and helps estimate property prices, find similar properties, and understand the local real estate market.
-
-## Motivation
-
-My father works as a real estate agent in a small town. I want to use Data Science to understand real estate and build useful tools for his business.
+A Data Science project for analyzing Indian real estate data,
+predicting property prices, and developing property recommendation tools.
 
 ## Goals
 
-- Analyze property prices
-- Predict property prices
-- Find similar properties
-- Analyze real estate data
-- Build a web application
+- Understand Indian real estate data
+- Clean and analyze property data
+- Explore property prices
+- Build a property price prediction model
+- Build a property recommendation system
+- Create a Streamlit application
 
 ## Technologies
 
